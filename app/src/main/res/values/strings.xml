@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daily News Adda</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="about_us">Established in 2018, Appsums is a leading global IT services company helping global enterprises and startups reimagine and transform their business ideas into excellent products. Upgrade your application development capabilities with our dedicated, experienced, and skilled experts that will deliver your project within the timeline.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

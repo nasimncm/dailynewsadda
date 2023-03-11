@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_home"
+        android:enabled="true"
+        android:icon="@drawable/house"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_science"
+        android:enabled="true"
+        android:icon="@drawable/science"
+        android:title="Science Facts" />
+
+    <item
+        android:id="@+id/nav_animal"
+        android:enabled="true"
+        android:icon="@drawable/animal"
+        android:title="Animal Facts" />
+
+    <item
+        android:id="@+id/nav_country"
+        android:enabled="true"
+        android:icon="@drawable/country"
+        android:title="Countries Facts" />
+
+    <item
+        android:id="@+id/nav_space"
+        android:enabled="true"
+        android:icon="@drawable/space"
+        android:title="Space Facts" />
+
+    <item
+        android:id="@+id/nav_love"
+        android:enabled="true"
+        android:icon="@drawable/love"
+        android:title="Love Facts" />
+    <item
+        android:id="@+id/nav_body"
+        android:enabled="true"
+        android:icon="@drawable/anatomy"
+        android:title="Body Facts" />
+
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share"
+                    android:enabled="true"
+                    android:title="Share" />
+                <item
+                    android:id="@+id/nav_rate"
+                    android:icon="@drawable/rate"
+                    android:enabled="true"
+                    android:title="Rate Us" />
+                <item
+                    android:id="@+id/nav_feedback"
+                    android:icon="@drawable/feedback"
+                    android:enabled="true"
+                    android:title="FeedBack" />
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/about"
+                    android:enabled="true"
+                    android:title="About" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
